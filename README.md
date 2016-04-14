@@ -1,2 +1,2 @@
-# X-Serv-15.8-CmsUsersPut
-Ejercicio 15.8 - Django cms users put
+# X-Serv-15.6-Django-CMS_PUT
+Ejercicio 15.6: Django cms_put
